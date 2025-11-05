@@ -68,6 +68,8 @@ include::sections/06-swid-registry.adoc[]
 
 include::sections/07-security-considerations.adoc[]
 
+include::sections/08-privacy-considerations.adoc[]
+
 include::sections/a0-bibliography.adoc[]
 
 include::sections/a1-version-changelog.adoc[]

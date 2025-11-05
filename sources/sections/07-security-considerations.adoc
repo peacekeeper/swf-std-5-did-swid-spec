@@ -1,5 +1,8 @@
 
-[[security-and-privacy-considerations]]
-== Security and Privacy Considerations
+[[security-considerations]]
+== Security Considerations
+
+[[cryptographic-security]]
+=== Security and Privacy Considerations
 
 EDITOR: TODO
